@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Infoblog - O seu  blog de tecnologias</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+</head>
+<body>
+	<div id="area-cabecalho">
+		<div id="area-logo">
+			<h1> 
+				Info<span class="blog">Blog da Dora</span>
+			</h1>
+		</div>
+		<div id="menu">
+			<a href="index.html"> Home</a>
+			<a href="jogos.html"> Jogos</a>
+			<a href="celular.html"> Celular</a>
+			<a href="info.html"> Informática</a>
+			<a href="eletronicos.html"> Eletrônicos</a>
+			
+		</div>
+		
+
+	</div>
+
+
+</body>
+</html>
